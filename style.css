@@ -1,0 +1,11 @@
+.img {
+    display: flex;
+    width: 174;
+    height: 174px;
+    justify-content: center;
+}
+.text {
+    display: flex;
+    align-items: center;
+    font-size: small;
+}
